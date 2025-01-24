@@ -39,6 +39,10 @@ Siga o passo a passo abaixo.
 - 🤖 2. Sortear os amigos secretos;
 - 🤖 3. Exibir quem será o amigo secreto de cada pessoa.
 
+## Acesse o Projeto
+
+Você pode clicar no link a seguir [Projeto](one-alura-desafio-amigo-secreto-99rg.vercel.app)
+
 ## 👨‍💻 Autor
 
 <p>
