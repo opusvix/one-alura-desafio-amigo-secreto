@@ -41,7 +41,7 @@ Siga o passo a passo abaixo.
 
 ## Acesse o Projeto
 
-Você pode clicar no link a seguir [Projeto](one-alura-desafio-amigo-secreto-99rg.vercel.app)
+Você pode clicar no link a seguir [Projeto](https://one-alura-desafio-amigo-secreto-99rg.vercel.app/)
 
 ## 👨‍💻 Autor
 
